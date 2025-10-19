@@ -1,4 +1,3 @@
-# Applied-Volatility-Modeling-Value-at-Risk-Backtesting
 # 💼 Applied Volatility Modeling & Value-at-Risk Backtesting
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
